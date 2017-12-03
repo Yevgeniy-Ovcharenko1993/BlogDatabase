@@ -1,0 +1,1 @@
+SELECT * FROM posts ORDER BY id desc LIMIT 5

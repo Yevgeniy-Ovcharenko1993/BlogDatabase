@@ -1,0 +1,1 @@
+select Posts_id, count(*) from tags group by Posts_id;
